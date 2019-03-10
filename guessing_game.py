@@ -1,3 +1,7 @@
+#For understanding random module has been reviewed  the following link
+#https://docs.python.org/3/library/random.html?highlight=random#module-random
+
+
 import random
     
 def start_game():
